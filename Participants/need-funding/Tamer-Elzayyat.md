@@ -16,7 +16,7 @@ travel-from     : Egypt
 image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAWTAAAAJGQ1MTdhYTZlLWI2NzItNDlkOS1hOTgxLTM4Mjg3MjRhYjE2YQ.jpg
 linkedin        : tamerelzayyat
 twiter          :
-facebook        :
+facebook        : tamer.elzayyat
 project-leader  :
 chapter-leader  :
 owasp-other     :
